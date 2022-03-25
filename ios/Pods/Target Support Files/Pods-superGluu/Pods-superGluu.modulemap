@@ -1,0 +1,6 @@
+module Pods_superGluu {
+  umbrella header "Pods-superGluu-umbrella.h"
+
+  export *
+  module * { export * }
+}

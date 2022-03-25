@@ -1,0 +1,10 @@
+export default {
+    LANDING_PAGE: "Landing_Page",
+    DRAWER_STACK: "DRAWER_STACK",
+    LOGS: "LOGS",
+    KEY: "KEYS",
+    PASSCODE:"PASSCODE",
+    TRUST_SSL:"TRUST_SSL",
+    LOG_DETAILS: "LOG_DETAILS",
+    KEY_DETAIL: "KEY_DETAIL"
+}

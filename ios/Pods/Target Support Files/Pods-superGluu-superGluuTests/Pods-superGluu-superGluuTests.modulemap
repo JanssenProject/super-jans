@@ -1,0 +1,6 @@
+module Pods_superGluu_superGluuTests {
+  umbrella header "Pods-superGluu-superGluuTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
